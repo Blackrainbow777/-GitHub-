@@ -1,4 +1,4 @@
-# 注意，以下版本皆为测试
+# 注意，以下版本皆为测试(做这些只是为了测试是不是提交到了main里面 [commit->commit main testing :) ]
 ## 内容如下(内容皆有AI生成，create by AI)
 # 什么是GitHub？什么是开源精神？
 ## 引言
